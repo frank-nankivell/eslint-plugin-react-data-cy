@@ -1,0 +1,18 @@
+{
+  "name": "eslint-plugin-react-data-cy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^9.19.0",
+    "eslint-config-prettier": "^10.0.1",
+    "eslint-config-xo": "^0.46.0",
+    "eslint-plugin-react": "^7.37.4"
+  }
+}
